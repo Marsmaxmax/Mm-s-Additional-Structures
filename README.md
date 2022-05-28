@@ -166,7 +166,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -175,7 +175,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+winterrmaxl@gmail.com
 
 Project Link: [https://github.com/Marsmaxmax/Mm-s-Additional-Structures](https://github.com/Marsmaxmax/Mm-s-Additional-Structures)
 

@@ -111,7 +111,10 @@ You need just two things:
 
 1. Start Minecraft 
 2. Klick "Singelplayer" and then "Create new World"
-3. Then click  
+3. Then click "Datapack"
+4. A folder opens drag and drop the Zip File in the folder
+5. Click Create new World
+6. Done!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -174,7 +177,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/Marsmaxmax/Mm-s-Additional-Structures](https://github.com/Marsmaxmax/Mm-s-Additional-Structures)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -203,6 +206,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [issues-url]: https://github.com/Marsmaxmax/Mm-s-Additional-Structures/issues
 [license-shield]: https://img.shields.io/github/license/Marsmaxmax/Mm-s-Additional-Structures.svg?style=for-the-badge
 [license-url]: https://github.com/Marsmaxmax/Mm-s-Additional-Structures/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+
 [product-screenshot]: images/screenshot.png
 

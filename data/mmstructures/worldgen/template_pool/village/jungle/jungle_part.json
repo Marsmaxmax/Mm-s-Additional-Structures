@@ -1,0 +1,24 @@
+{
+    "name": "mmstructures:village/jungel/jungle_part",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:legacy_single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "mmstructures:village/jungle/jungle_part/jungle_part1"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:legacy_single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "mmstructures:village/jungle/jungle_part/jungle_part2"
+            }
+        }
+    ]
+}

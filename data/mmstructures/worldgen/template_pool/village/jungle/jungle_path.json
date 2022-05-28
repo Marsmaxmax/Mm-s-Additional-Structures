@@ -1,0 +1,51 @@
+{
+    "name": "mmstructures:village/jungel/jungle_path",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 11,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty",
+                "location": "mmstructures:village/jungle/jungle_path/jungle_path1"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty",
+                "location": "mmstructures:village/jungle/jungle_path/jungle_path2"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty",
+                "location": "mmstructures:village/jungle/jungle_path/jungle_path3"
+            }
+        },
+        {
+            "weight": 3,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "mmstructures:village/jungle/jungle_path/jungle_path_up1"
+            }
+        },
+        {
+            "weight": 8,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty",
+                "location": "mmstructures:village/jungle/jungle_path/jungle_path_up2"
+            }
+        }
+    ]
+}

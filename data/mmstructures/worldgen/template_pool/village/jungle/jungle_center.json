@@ -1,0 +1,15 @@
+{
+    "name": "mmstructures:village/jungel/jungle_center",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:legacy_single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "mmstructures:village/jungle/jungle_center/jungle_center1"
+            }
+        }
+    ]
+}

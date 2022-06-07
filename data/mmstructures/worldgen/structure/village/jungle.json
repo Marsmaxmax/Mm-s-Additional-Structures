@@ -1,6 +1,6 @@
 {
 "type": "minecraft:jigsaw",
-"biomes": "#minecraft:has_structure/mineshaft",
+"biomes": "#mmstructures:has_structure/jungle_village",
 "step": "surface_structures",
 "spawn_overrides": {},
 "terrain_adaptation": "beard_thin",

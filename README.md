@@ -29,22 +29,22 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/Marsmaxmax/Mm-s-Additional-Structures">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Marsmax's Additional Structures</h3>
 
   <p align="center">
-    project_description
+    A datapack with some really cool structures like Jungle Villages
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Marsmaxmax/Mm-s-Additional-Structures"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/Marsmaxmax/Mm-s-Additional-Structures">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/Marsmaxmax/Mm-s-Additional-Structures/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/Marsmaxmax/Mm-s-Additional-Structures/issues">Request Feature</a>
   </p>
 </div>
 
